@@ -1,0 +1,7 @@
+.navbar navbar-expand-lg navbar-dark bg-primary{
+    background-color: black;
+}
+
+.navbar-brand{
+    font: 2em sans-serif;
+}
